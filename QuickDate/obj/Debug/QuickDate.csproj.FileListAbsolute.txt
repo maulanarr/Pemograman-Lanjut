@@ -1,0 +1,7 @@
+C:\Users\amikom\source\repos\Quicksolution\QuickDate\obj\Debug\QuickDate.csprojAssemblyReference.cache
+C:\Users\amikom\source\repos\Quicksolution\QuickDate\obj\Debug\QuickDate.csproj.CoreCompileInputs.cache
+C:\Users\amikom\source\repos\Quicksolution\QuickDate\bin\Debug\QuickDate.exe.config
+C:\Users\amikom\source\repos\Quicksolution\QuickDate\bin\Debug\QuickDate.exe
+C:\Users\amikom\source\repos\Quicksolution\QuickDate\bin\Debug\QuickDate.pdb
+C:\Users\amikom\source\repos\Quicksolution\QuickDate\obj\Debug\QuickDate.exe
+C:\Users\amikom\source\repos\Quicksolution\QuickDate\obj\Debug\QuickDate.pdb
